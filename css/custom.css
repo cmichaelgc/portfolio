@@ -1,0 +1,6 @@
+/* your styles go here */
+#page1 {
+    text-align: center;
+    background-image: url('../img/bluestage.jpg');
+    background-size: cover;
+}
