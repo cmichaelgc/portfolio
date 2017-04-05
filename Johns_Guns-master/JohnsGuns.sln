@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE0EC8FA-0D28-4276-947D-BFE58C3E487E}"
+	ProjectSection(SolutionItems) = preProject
+		Contact.html = Contact.html
+		CustomGuns.html = CustomGuns.html
+		Johns_Guns.css = Johns_Guns.css
+		Johns_Guns.html = Johns_Guns.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{06578FD6-F57C-4C3E-8512-08F2FDC30903}"
+	ProjectSection(SolutionItems) = preProject
+		img\bullet_paper.jpg = img\bullet_paper.jpg
+		img\cz_scorpion.jpg = img\cz_scorpion.jpg
+		img\Daniel-Defense-M4A1.jpg = img\Daniel-Defense-M4A1.jpg
+		img\glock22_gen4.jpg = img\glock22_gen4.jpg
+		img\john_wick.jpg = img\john_wick.jpg
+		img\john_wick2.jpg = img\john_wick2.jpg
+		img\rambo-header1.jpg = img\rambo-header1.jpg
+		img\rambo.png = img\rambo.png
+		img\ruger.jpg = img\ruger.jpg
+		img\Savage_110BA.jpg = img\Savage_110BA.jpg
+		img\SIG-716.jpg = img\SIG-716.jpg
+		img\walther_pps.jpg = img\walther_pps.jpg
+		img\wayne.jpg = img\wayne.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06578FD6-F57C-4C3E-8512-08F2FDC30903} = {CE0EC8FA-0D28-4276-947D-BFE58C3E487E}
+	EndGlobalSection
+EndGlobal
